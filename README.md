@@ -12,5 +12,4 @@ It includes sections for Education, Projects, Hackathons, and Certifications.
 - JavaScript (with jQuery)
 - Responsive Design
 
-## 🧾 Resume
-[View Resume](resume/Samridhi_Resume.pdf)
+

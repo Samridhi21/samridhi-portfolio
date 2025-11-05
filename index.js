@@ -134,7 +134,7 @@ const projects = [
     tech: "Node.js • Express.js • MySQL • HTML • CSS • JavaScript",
     img: "images/eventelite.png",
     logo: "images/event.png",
-    video: "https://youtu.be/Svx-AaNg5eE",
+    video: "https://drive.google.com/file/d/10kDCAQKnYFqjEvtqFlLe11RaMw3n3gmq/view?usp=sharing",
   },
   {
     title: "Portfolio Website",

@@ -78,7 +78,7 @@ const certifications = [
     link: "images/capable.jpeg"
   },
   {
-    title: "HackmManthan 2025",
+    title: "HackManthan 2025",
     issuingorganization: "Eventeye",
     date: "October 2025",
     img: "images/010_Samridhi.jpg",
